@@ -145,5 +145,9 @@ A curated collection of essential software resources, tools, libraries, and refe
 - Keep descriptions concise and relevant
 
 ---
+[![GitHub Stars](https://img.shields.io/github/stars/Tanvir-yzu/Software_Resources?style=social)](https://github.com/Tanvir-yzu/Software_Resources)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Django 4.2+](https://img.shields.io/badge/django-4.2+-green.svg)](https://www.djangoproject.com/)
 
 *Last Updated: December 2025*
