@@ -10,6 +10,10 @@ John Developer <tanvir>
 :pdf-page-size: a4            # Print size (a4, letter, etc.)
 :front-matter: yes            # Enable front matter styling
 
+== Overview
+
+This book is designed for individuals who are new to programming and want to learn Python. It covers the basics of Python programming, including syntax, data types, control structures, functions, and more. Each chapter includes examples and exercises to reinforce learning.
+
 == Conclusion
 
 This book has provided a comprehensive guide for beginners in Python programming. We hope you found it informative and helpful in your journey to becoming a proficient Python developer.
