@@ -1,0 +1,13 @@
+= Document Title (Level 0 Heading)
+Author Name <author@example.com>
+:revision: 1.0          # Custom attribute (e.g., version)
+:toc: left              # Enable table of contents (left-aligned)
+:source-highlighter: rouge  # Syntax highlighting for code
+
+== Level 2 Heading (Chapter/Section)
+This is a paragraph with *bold text*, _italic text_, and `inline code`.
+
+=== Level 3 Heading (Subsection)
+AsciiDoc uses "==" for level 2, "===" for level 3 (up to 6 levels).
+
+// This is a comment (not included in output)
