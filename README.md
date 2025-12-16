@@ -150,6 +150,19 @@ A curated collection of essential software resources, tools, libraries, and refe
 - Keep descriptions concise and relevant
 
 ---
+# Django Essential Tools
+A curated collection of high-value Django packages, UI frameworks, and utilities to streamline development, enhance admin interfaces, and enforce best practices.
 
+[![Monthly Commits](https://img.shields.io/github/commit-activity/m/tanvir-yzu/Software_Resources?label=Monthly%20Commits&style=for-the-badge&color=blue)](https://github.com/tanvir-yzu/Software_Resources/commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/tanvir-yzu/Software_Resources?label=Last%20Commit&style=for-the-badge&color=green)](https://github.com/tanvir-yzu/Software_Resources/commits/main)
+
+## Table of Contents
+- [Admin Interface Enhancements](#admin-interface-enhancements)
+- [Development Utilities](#development-utilities)
+- [Environment & Code Quality](#environment--code-quality)
+- [Project Maintenance & Security](#project-maintenance--security)
+- [Database Management](#database-management)
+- [Authentication & Authorization](#authentication--authorization)
+- [Additional Resources](#additional-resources)
 
 *Last Updated: December 2025*
