@@ -1,0 +1,31 @@
+= Python for Beginners: A Step-by-Step Guide
+John Developer <tanvir>
+:revision: 1.0
+:doctype: book                # Critical: Tells Asciidoctor this is a book
+:toc: left                    # Table of contents (left sidebar in PDF)
+:toclevels: 3                 # Show TOC up to section level
+:source-highlighter: rouge    # Syntax highlighting for code
+:lang: en                     # Book language
+:pdf-style: book-theme.yml    # Custom PDF theme (optional)
+:pdf-page-size: a4            # Print size (a4, letter, etc.)
+:front-matter: yes            # Enable front matter styling
+
+== Overview
+
+This book is designed for individuals who are new to programming and want to learn Python. It covers the basics of Python programming, including syntax, data types, control structures, functions, and more. Each chapter includes examples and exercises to reinforce learning.
+
+== Conclusion
+
+This book has provided a comprehensive guide for beginners in Python programming. We hope you found it informative and helpful in your journey to becoming a proficient Python developer.
+
+== Additional Resources
+
+Here are some additional resources to further your learning:
+
+- Official Python Documentation: https://docs.python.org/3/
+- Python for Everybody: https://www.py4e.com/
+- Real Python: https://realpython.com/
+- Codecademy Python Course: https://www.codecademy.com/learn/learn-python-3
+
+These resources provide tutorials, documentation, and community support to help you continue your Python journey.
+
